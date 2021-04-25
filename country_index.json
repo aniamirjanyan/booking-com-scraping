@@ -1,0 +1,602 @@
+[
+  {
+    "Country": "Egypt",
+    "Cost of Living Index": 30.1,
+    "Rent Index": 5.97
+  },
+  {
+    "Country": "Morocco",
+    "Cost of Living Index": 36.85,
+    "Rent Index": 9.72
+  },
+  {
+    "Country": "South Africa",
+    "Cost of Living Index": 41.69,
+    "Rent Index": 15.94
+  },
+  {
+    "Country": "Tunisia",
+    "Cost of Living Index": 29.5,
+    "Rent Index": 5.77
+  },
+  {
+    "Country": "Algeria",
+    "Cost of Living Index": 28.31,
+    "Rent Index": 5.01
+  },
+  {
+    "Country": "Zimbabwe",
+    "Cost of Living Index": 51.52,
+    "Rent Index": 9.44
+  },
+  {
+    "Country": "Mozambique",
+    "Cost of Living Index": 35.89,
+    "Rent Index": 15.12
+  },
+  {
+    "Country": "Ivory Coast",
+    "Cost of Living Index": 54.61,
+    "Rent Index": 20.26
+  },
+  {
+    "Country": "Kenya",
+    "Cost of Living Index": 36.3,
+    "Rent Index": 9.17
+  },
+  {
+    "Country": "Botswana",
+    "Cost of Living Index": 40.41,
+    "Rent Index": 10.74
+  },
+  {
+    "Country": "Japan",
+    "Cost of Living Index": 87.77,
+    "Rent Index": 28.03
+  },
+  {
+    "Country": "Israel",
+    "Cost of Living Index": 86.63,
+    "Rent Index": 31.9
+  },
+  {
+    "Country": "Singapore",
+    "Cost of Living Index": 85.59,
+    "Rent Index": 64.77
+  },
+  {
+    "Country": "South Korea",
+    "Cost of Living Index": 81.2,
+    "Rent Index": 22.91
+  },
+  {
+    "Country": "Hong Kong",
+    "Cost of Living Index": 79.94,
+    "Rent Index": 74.24
+  },
+  {
+    "Country": "Lebanon",
+    "Cost of Living Index": 75.88,
+    "Rent Index": 24.08
+  },
+  {
+    "Country": "Macau",
+    "Cost of Living Index": 69.6,
+    "Rent Index": 44.39
+  },
+  {
+    "Country": "Taiwan",
+    "Cost of Living Index": 65.25,
+    "Rent Index": 17.92
+  },
+  {
+    "Country": "Qatar",
+    "Cost of Living Index": 64.23,
+    "Rent Index": 46.59
+  },
+  {
+    "Country": "Cyprus",
+    "Cost of Living Index": 64.05,
+    "Rent Index": 22.7
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Cost of Living Index": 61.67,
+    "Rent Index": 40.62
+  },
+  {
+    "Country": "Bahrain",
+    "Cost of Living Index": 57.7,
+    "Rent Index": 29.53
+  },
+  {
+    "Country": "Palestine",
+    "Cost of Living Index": 55.88,
+    "Rent Index": 9.98
+  },
+  {
+    "Country": "Jordan",
+    "Cost of Living Index": 52.17,
+    "Rent Index": 9.69
+  },
+  {
+    "Country": "Yemen",
+    "Cost of Living Index": 51.46,
+    "Rent Index": 6.21
+  },
+  {
+    "Country": "Oman",
+    "Cost of Living Index": 50.18,
+    "Rent Index": 17.32
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Cost of Living Index": 49.95,
+    "Rent Index": 11.64
+  },
+  {
+    "Country": "Kuwait",
+    "Cost of Living Index": 49.4,
+    "Rent Index": 31.43
+  },
+  {
+    "Country": "Brunei",
+    "Cost of Living Index": 49.35,
+    "Rent Index": 23.44
+  },
+  {
+    "Country": "Thailand",
+    "Cost of Living Index": 49.32,
+    "Rent Index": 16.33
+  },
+  {
+    "Country": "Cambodia",
+    "Cost of Living Index": 47.91,
+    "Rent Index": 14.56
+  },
+  {
+    "Country": "China",
+    "Cost of Living Index": 42.54,
+    "Rent Index": 16.42
+  },
+  {
+    "Country": "Iran",
+    "Cost of Living Index": 41.34,
+    "Rent Index": 17.88
+  },
+  {
+    "Country": "Philippines",
+    "Cost of Living Index": 40.65,
+    "Rent Index": 10.41
+  },
+  {
+    "Country": "Malaysia",
+    "Cost of Living Index": 39.51,
+    "Rent Index": 10.77
+  },
+  {
+    "Country": "Myanmar",
+    "Cost of Living Index": 38.06,
+    "Rent Index": 21.71
+  },
+  {
+    "Country": "Vietnam",
+    "Cost of Living Index": 38.05,
+    "Rent Index": 14.16
+  },
+  {
+    "Country": "Indonesia",
+    "Cost of Living Index": 37.44,
+    "Rent Index": 10.29
+  },
+  {
+    "Country": "Bangladesh",
+    "Cost of Living Index": 33.31,
+    "Rent Index": 4.9
+  },
+  {
+    "Country": "Mongolia",
+    "Cost of Living Index": 33.17,
+    "Rent Index": 9.91
+  },
+  {
+    "Country": "Iraq",
+    "Cost of Living Index": 32.72,
+    "Rent Index": 9.76
+  },
+  {
+    "Country": "Armenia",
+    "Cost of Living Index": 31.68,
+    "Rent Index": 10.36
+  },
+  {
+    "Country": "Turkey",
+    "Cost of Living Index": 31.48,
+    "Rent Index": 6.1
+  },
+  {
+    "Country": "Sri Lanka",
+    "Cost of Living Index": 31.28,
+    "Rent Index": 8.54
+  },
+  {
+    "Country": "Azerbaijan",
+    "Cost of Living Index": 30.9,
+    "Rent Index": 9.02
+  },
+  {
+    "Country": "Kazakhstan",
+    "Cost of Living Index": 29.76,
+    "Rent Index": 9.31
+  },
+  {
+    "Country": "Syria",
+    "Cost of Living Index": 29.03,
+    "Rent Index": 5.68
+  },
+  {
+    "Country": "Nepal",
+    "Cost of Living Index": 28.86,
+    "Rent Index": 4.54
+  },
+  {
+    "Country": "Georgia",
+    "Cost of Living Index": 28.05,
+    "Rent Index": 9.42
+  },
+  {
+    "Country": "Uzbekistan",
+    "Cost of Living Index": 27.12,
+    "Rent Index": 8.06
+  },
+  {
+    "Country": "Afghanistan",
+    "Cost of Living Index": 26.33,
+    "Rent Index": 3.85
+  },
+  {
+    "Country": "India",
+    "Cost of Living Index": 25.16,
+    "Rent Index": 5.77
+  },
+  {
+    "Country": "Switzerland",
+    "Cost of Living Index": 131.75,
+    "Rent Index": 55.05
+  },
+  {
+    "Country": "Norway",
+    "Cost of Living Index": 106.09,
+    "Rent Index": 36.18
+  },
+  {
+    "Country": "Iceland",
+    "Cost of Living Index": 96.77,
+    "Rent Index": 43.17
+  },
+  {
+    "Country": "Denmark",
+    "Cost of Living Index": 91.67,
+    "Rent Index": 36.18
+  },
+  {
+    "Country": "Luxembourg",
+    "Cost of Living Index": 88.28,
+    "Rent Index": 61.62
+  },
+  {
+    "Country": "Ireland",
+    "Cost of Living Index": 83.11,
+    "Rent Index": 45.42
+  },
+  {
+    "Country": "France",
+    "Cost of Living Index": 80.62,
+    "Rent Index": 27.79
+  },
+  {
+    "Country": "Sweden",
+    "Cost of Living Index": 79.17,
+    "Rent Index": 28.08
+  },
+  {
+    "Country": "Netherlands",
+    "Cost of Living Index": 78.64,
+    "Rent Index": 39.31
+  },
+  {
+    "Country": "Belgium",
+    "Cost of Living Index": 78.52,
+    "Rent Index": 26.84
+  },
+  {
+    "Country": "Finland",
+    "Cost of Living Index": 77.46,
+    "Rent Index": 28.04
+  },
+  {
+    "Country": "Austria",
+    "Cost of Living Index": 75.49,
+    "Rent Index": 28.42
+  },
+  {
+    "Country": "Malta",
+    "Cost of Living Index": 73.61,
+    "Rent Index": 32.96
+  },
+  {
+    "Country": "Italy",
+    "Cost of Living Index": 73.11,
+    "Rent Index": 22.91
+  },
+  {
+    "Country": "United Kingdom",
+    "Cost of Living Index": 71.03,
+    "Rent Index": 31.61
+  },
+  {
+    "Country": "Germany",
+    "Cost of Living Index": 70.62,
+    "Rent Index": 29.64
+  },
+  {
+    "Country": "Greece",
+    "Cost of Living Index": 60.96,
+    "Rent Index": 13.05
+  },
+  {
+    "Country": "Slovenia",
+    "Cost of Living Index": 59.38,
+    "Rent Index": 18.88
+  },
+  {
+    "Country": "Spain",
+    "Cost of Living Index": 59.09,
+    "Rent Index": 23.59
+  },
+  {
+    "Country": "Estonia",
+    "Cost of Living Index": 56.45,
+    "Rent Index": 16.27
+  },
+  {
+    "Country": "Croatia",
+    "Cost of Living Index": 56.36,
+    "Rent Index": 14.94
+  },
+  {
+    "Country": "Portugal",
+    "Cost of Living Index": 52.88,
+    "Rent Index": 22.31
+  },
+  {
+    "Country": "Latvia",
+    "Cost of Living Index": 52.87,
+    "Rent Index": 13.17
+  },
+  {
+    "Country": "Czech Republic",
+    "Cost of Living Index": 49.18,
+    "Rent Index": 19.81
+  },
+  {
+    "Country": "Slovakia",
+    "Cost of Living Index": 49.08,
+    "Rent Index": 17.43
+  },
+  {
+    "Country": "Lithuania",
+    "Cost of Living Index": 47.66,
+    "Rent Index": 14.63
+  },
+  {
+    "Country": "Hungary",
+    "Cost of Living Index": 42.75,
+    "Rent Index": 12.75
+  },
+  {
+    "Country": "Poland",
+    "Cost of Living Index": 42.04,
+    "Rent Index": 18.09
+  },
+  {
+    "Country": "Montenegro",
+    "Cost of Living Index": 41.43,
+    "Rent Index": 11.75
+  },
+  {
+    "Country": "Bulgaria",
+    "Cost of Living Index": 40.92,
+    "Rent Index": 9.88
+  },
+  {
+    "Country": "Albania",
+    "Cost of Living Index": 40.25,
+    "Rent Index": 9.21
+  },
+  {
+    "Country": "Serbia",
+    "Cost of Living Index": 39.19,
+    "Rent Index": 9.83
+  },
+  {
+    "Country": "Bosnia And Herzegovina",
+    "Cost of Living Index": 38.56,
+    "Rent Index": 7.13
+  },
+  {
+    "Country": "Romania",
+    "Cost of Living Index": 38.5,
+    "Rent Index": 10.76
+  },
+  {
+    "Country": "North Macedonia",
+    "Cost of Living Index": 34.15,
+    "Rent Index": 6.72
+  },
+  {
+    "Country": "Russia",
+    "Cost of Living Index": 33.17,
+    "Rent Index": 9.77
+  },
+  {
+    "Country": "Moldova",
+    "Cost of Living Index": 32.68,
+    "Rent Index": 8.65
+  },
+  {
+    "Country": "Belarus",
+    "Cost of Living Index": 30.69,
+    "Rent Index": 9.19
+  },
+  {
+    "Country": "Kosovo (Disputed Territory)",
+    "Cost of Living Index": 29.4,
+    "Rent Index": 8.8
+  },
+  {
+    "Country": "Ukraine",
+    "Cost of Living Index": 29.21,
+    "Rent Index": 8.74
+  },
+  {
+    "Country": "Bermuda",
+    "Cost of Living Index": 145.07,
+    "Rent Index": 92.86
+  },
+  {
+    "Country": "Bahamas",
+    "Cost of Living Index": 85.85,
+    "Rent Index": 34.54
+  },
+  {
+    "Country": "Barbados",
+    "Cost of Living Index": 81.49,
+    "Rent Index": 21.09
+  },
+  {
+    "Country": "United States",
+    "Cost of Living Index": 71.92,
+    "Rent Index": 41.14
+  },
+  {
+    "Country": "Canada",
+    "Cost of Living Index": 70.08,
+    "Rent Index": 32.48
+  },
+  {
+    "Country": "Puerto Rico",
+    "Cost of Living Index": 69.51,
+    "Rent Index": 19.42
+  },
+  {
+    "Country": "Cuba",
+    "Cost of Living Index": 55.54,
+    "Rent Index": 14.89
+  },
+  {
+    "Country": "Trinidad And Tobago",
+    "Cost of Living Index": 55.48,
+    "Rent Index": 16.44
+  },
+  {
+    "Country": "Panama",
+    "Cost of Living Index": 54.07,
+    "Rent Index": 22.58
+  },
+  {
+    "Country": "Jamaica",
+    "Cost of Living Index": 53.16,
+    "Rent Index": 15.93
+  },
+  {
+    "Country": "Belize",
+    "Cost of Living Index": 52.45,
+    "Rent Index": 11.56
+  },
+  {
+    "Country": "Suriname",
+    "Cost of Living Index": 51.86,
+    "Rent Index": 10.42
+  },
+  {
+    "Country": "Uruguay",
+    "Cost of Living Index": 51.09,
+    "Rent Index": 13.56
+  },
+  {
+    "Country": "Costa Rica",
+    "Cost of Living Index": 50.64,
+    "Rent Index": 14.52
+  },
+  {
+    "Country": "Chile",
+    "Cost of Living Index": 49.33,
+    "Rent Index": 14.66
+  },
+  {
+    "Country": "Guatemala",
+    "Cost of Living Index": 44.76,
+    "Rent Index": 15.24
+  },
+  {
+    "Country": "El Salvador",
+    "Cost of Living Index": 44.57,
+    "Rent Index": 13.33
+  },
+  {
+    "Country": "Nicaragua",
+    "Cost of Living Index": 42.77,
+    "Rent Index": 7.99
+  },
+  {
+    "Country": "Honduras",
+    "Cost of Living Index": 42.2,
+    "Rent Index": 10.63
+  },
+  {
+    "Country": "Dominican Republic",
+    "Cost of Living Index": 41.54,
+    "Rent Index": 9.81
+  },
+  {
+    "Country": "Ecuador",
+    "Cost of Living Index": 40.08,
+    "Rent Index": 12.03
+  },
+  {
+    "Country": "Argentina",
+    "Cost of Living Index": 37.87,
+    "Rent Index": 8.49
+  },
+  {
+    "Country": "Peru",
+    "Cost of Living Index": 36.26,
+    "Rent Index": 12.25
+  },
+  {
+    "Country": "Bolivia",
+    "Cost of Living Index": 36.11,
+    "Rent Index": 10.76
+  },
+  {
+    "Country": "Mexico",
+    "Cost of Living Index": 35.05,
+    "Rent Index": 11.62
+  },
+  {
+    "Country": "Brazil",
+    "Cost of Living Index": 31.82,
+    "Rent Index": 8.12
+  },
+  {
+    "Country": "Colombia",
+    "Cost of Living Index": 31,
+    "Rent Index": 9.96
+  },
+  {
+    "Country": "Paraguay",
+    "Cost of Living Index": 30.72,
+    "Rent Index": 9.77
+  }
+]

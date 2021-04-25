@@ -110,9 +110,10 @@ def parsing_data(session, people, country, city, datein, dateout, offset, is_det
             print("[~] It will take a while with details")
 
     for hotel in hotels:
-        hotel_info = {'name': core.get_hotel_name(hotel), 'score': core.get_hotel_score(hotel),
-                      'price': core.get_hotel_price(hotel), 'link': core.get_hotel_detail_link(hotel),
-                      'country': country, 'city/village': city,
+        hotel_info = {'price': core.get_hotel_price(hotel).split('$')[1],
+                      'name': core.get_hotel_name(hotel), 'score': core.get_hotel_score(hotel),
+                      'link': core.get_hotel_detail_link(hotel),
+                      'country': country,  # 'city/village': city,
                       'date-in': str(datein).split(' ')[0], 'date-out': str(dateout).split(' ')[0]}
 
         if hotel_info['link'] is not None:
@@ -131,7 +132,6 @@ def parsing_data(session, people, country, city, datein, dateout, offset, is_det
                 # details['neighborhood_structures'] = core.get_neighborhood_structures(soup_detail)
 
                 hotel_info['services_offered'] = core.get_services_offered(soup_detail)
-                hotel_info['square_meter'] = core.get_square_meter(soup_detail)
                 # hotel_info['details'] = details
 
         # hotel_info['thumbnail_image'] = core.get_thumbnail_image(hotel)
@@ -158,7 +158,7 @@ def get_result(**kwargs):
     dateout = kwargs.get('dateout', tomorrow)
     is_detail = kwargs.get('detail', False)
     limit = kwargs.get('limit', -1)
-
+    # print(country)
     if city is None and country is None:
         raise Exception('set the \"city\" or \"country\" param at least')
 
