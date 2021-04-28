@@ -1,0 +1,2567 @@
+[
+    [],
+    [
+        {
+            "price": "239",
+            "name": "Edge Hotel Clearwater Beach",
+            "score": "8.6",
+            "link": "/hotel/us/edge.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=225218904_98920622_0_1_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=26&highlighted_blocks=225218904_98920622_0_1_0&hpos=1&no_rooms=1&sr_order=price&sr_pri_blocks=225218904_98920622_0_1_0__23885&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "good fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer",
+                        "Bath",
+                        "Shower"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor furniture",
+                        "Sun terrace",
+                        "Patio",
+                        "Balcony",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Services & Extras",
+                    "value": [
+                        "Tickets to attractions or shows"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Happy hour",
+                        "Beach",
+                        "Water park",
+                        "Bicycle rental (additional charge)"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Seating Area",
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Telephone",
+                        "TV"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Fruits",
+                        "Bottle of water",
+                        "Wine/champagne",
+                        "Kid meals",
+                        "Snack bar",
+                        "Bar",
+                        "Restaurant",
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in public areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Concierge service",
+                        "Luggage storage",
+                        "Ticket service",
+                        "Tour desk",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Daily housekeeping",
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "Smoke alarms",
+                        "Security alarm",
+                        "24-hour security",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Vending machine (drinks)",
+                        "Hypoallergenic",
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Allergy-free room",
+                        "Wake-up service",
+                        "Heating",
+                        "Private entrance",
+                        "Laptop safe",
+                        "Carpeted",
+                        "Gift shop",
+                        "Lift",
+                        "Bridal suite",
+                        "Heating",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Newspapers",
+                        "Wake up service/Alarm clock",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Auditory guidance",
+                        "Visual aids: Braille",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible",
+                        "Upper floors accessible by elevator"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs",
+                        "Pool bar",
+                        "Swimming pool toys",
+                        "Heated pool",
+                        "Pool with view"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness",
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "243",
+            "name": "Wyndham Grand Clearwater Beach",
+            "score": "8.8",
+            "link": "/hotel/us/wyndham-grand-clearwater-beach-resort.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=197523020_246424142_2_2_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=27&highlighted_blocks=197523020_246424142_2_2_0&hpos=2&no_rooms=1&sr_order=price&sr_pri_blocks=197523020_246424142_2_2_0__24280&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Room service",
+                "exceptional fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Good breakfast",
+                "Beachfront"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Bathrobe",
+                        "Hairdryer"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock",
+                        "Dressing room"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor fireplace",
+                        "Outdoor furniture",
+                        "Beachfront",
+                        "Outdoor furniture",
+                        "Sun terrace",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Services & Extras",
+                    "value": [
+                        "Tickets to attractions or shows"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Happy hour",
+                        "Beach"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "iPod dock",
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Video",
+                        "Radio",
+                        "Telephone",
+                        "TV",
+                        "Pay-per-view channels"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Chocolate or cookies",
+                        "Fruits",
+                        "Bottle of water",
+                        "Wine/champagne",
+                        "Kid-friendly buffet",
+                        "Kid meals",
+                        "Special diet menus (on request)",
+                        "Snack bar",
+                        "Breakfast in the room",
+                        "Bar",
+                        "Restaurant",
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Concierge service",
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Ticket service",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Daily housekeeping",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "CCTV outside property",
+                        "CCTV in common areas",
+                        "Smoke alarms",
+                        "Security alarm",
+                        "24-hour security",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Allergy-free room",
+                        "Wake-up service",
+                        "Heating",
+                        "Soundproofing",
+                        "Laptop safe",
+                        "Carpeted",
+                        "Soundproof rooms",
+                        "Gift shop",
+                        "Lift",
+                        "Heating",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Newspapers",
+                        "Wake up service/Alarm clock",
+                        "Air conditioning",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Visual aids: Tactile signs",
+                        "Visual aids: Braille",
+                        "Emergency cord in bathroom",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness/spa locker rooms",
+                        "Fitness",
+                        "Full body massage",
+                        "Head massage",
+                        "Couples massage",
+                        "Foot massage",
+                        "Neck massage",
+                        "Back massage",
+                        "Spa/wellness packages",
+                        "Spa lounge/relaxation area",
+                        "Steam room",
+                        "Spa Facilities",
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Hot tub/jacuzzi",
+                        "Massage",
+                        "Spa and wellness centre",
+                        "Fitness centre",
+                        "Sauna"
+                    ]
+                },
+                {
+                    "type": "Languages spoken",
+                    "value": [
+                        "English",
+                        "Spanish"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "257",
+            "name": "SpringHill Suites by Marriott Clearwater Beach",
+            "score": "8.1",
+            "link": "/hotel/us/springhill-suites-by-marriott-tampa-clearwater-beach.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=244099902_102307416_0_1_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=28&highlighted_blocks=244099902_102307416_0_1_0&hpos=3&no_rooms=1&sr_order=price&sr_pri_blocks=244099902_102307416_0_1_0__25668&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer",
+                        "Shower"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor furniture",
+                        "Sun terrace",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Sofa bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Services & Extras",
+                    "value": [
+                        "Tickets to attractions or shows"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are allowed on request. Charges may be applicable."
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Sofa",
+                        "Seating Area",
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Radio",
+                        "Telephone",
+                        "TV"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Chocolate or cookies",
+                        "Fruits",
+                        "Bottle of water",
+                        "Wine/champagne",
+                        "Kid-friendly buffet",
+                        "Kid meals",
+                        "Snack bar",
+                        "Bar",
+                        "Restaurant",
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Electric vehicle charging station",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Luggage storage",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "CCTV in common areas",
+                        "Smoke alarms",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Mini-market on site",
+                        "Shared lounge/TV area",
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Heating",
+                        "Carpeted",
+                        "Lift",
+                        "Heating",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Wake up service/Alarm clock",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "All ages welcome"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Pool/beach towels",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "275",
+            "name": "Residence Inn by Marriott Clearwater Beach",
+            "score": "8.4",
+            "link": "/hotel/us/residence-inn-by-marriott-tampa-clearwater-beach.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=244099801_102307422_0_1_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=29&highlighted_blocks=244099801_102307422_0_1_0&hpos=4&no_rooms=1&sr_order=price&sr_pri_blocks=244099801_102307422_0_1_0__27508&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "Non-smoking rooms",
+                "good fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Parking",
+                "Pets allowed",
+                "Bar",
+                "Breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer",
+                        "Shower"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor furniture",
+                        "Sun terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Stovetop",
+                        "Kitchenware",
+                        "Dishwasher",
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Sofa bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are allowed on request. Charges may be applicable."
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Dining area",
+                        "Seating Area",
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Radio",
+                        "Telephone"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Kid-friendly buffet",
+                        "Bar"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Smoke alarms",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Grocery deliveries",
+                        "Mini-market on site",
+                        "Shared lounge/TV area",
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Heating",
+                        "Carpeted",
+                        "Lift",
+                        "Heating",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Wellness facilities",
+                    "value": [
+                        "Fitness",
+                        "Pool/beach towels",
+                        "Fitness centre"
+                    ]
+                },
+                {
+                    "type": "Languages spoken",
+                    "value": [
+                        "English",
+                        "Spanish"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "281",
+            "name": "Courtyard by Marriott Clearwater Beach",
+            "score": "",
+            "link": "/hotel/us/courtyard-by-marriott-clearwater-beach.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=690902106_282136939_0_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=30&highlighted_blocks=690902106_282136939_0_0_0&hpos=5&no_rooms=1&sr_order=price&sr_pri_blocks=690902106_282136939_0_0_0__28100&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Parking",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor fireplace",
+                        "Outdoor furniture",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Happy hour"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Satellite channels",
+                        "Telephone",
+                        "TV"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Kid meals",
+                        "Bar",
+                        "Restaurant",
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in public areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Invoice provided",
+                        "Luggage storage",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "CCTV in common areas",
+                        "Smoke alarms",
+                        "Security alarm",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Mini-market on site",
+                        "Shared lounge/TV area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Heating",
+                        "Laptop safe",
+                        "Interconnected room(s) available",
+                        "Carpeted",
+                        "Lift",
+                        "Heating",
+                        "Facilities for disabled guests",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Wake up service/Alarm clock",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Auditory guidance",
+                        "Visual aids: Tactile signs",
+                        "Visual aids: Braille",
+                        "Emergency cord in bathroom",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible",
+                        "Upper floors accessible by elevator"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "Opening times",
+                        "All ages welcome",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs",
+                        "Pool bar",
+                        "Pool with view"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "289",
+            "name": "Clearwater Beach Marriott Suites on Sand Key",
+            "score": "8.7",
+            "link": "/hotel/us/clearwater-beach-marriott-suites-on-sand-key.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=26835104_94380336_0_40_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=31&highlighted_blocks=26835104_94380336_0_40_0&hpos=6&no_rooms=1&sr_order=price&sr_pri_blocks=26835104_94380336_0_40_0__28900&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "Non-smoking rooms",
+                "Restaurant",
+                "Room service",
+                "very good fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Bar",
+                "Good breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor fireplace",
+                        "Outdoor furniture",
+                        "Sun terrace",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Beach",
+                        "Water sport facilities (on site)",
+                        "Entertainment staff",
+                        "Snorkelling",
+                        "Diving",
+                        "Bowling",
+                        "Cycling",
+                        "Hiking",
+                        "Windsurfing",
+                        "Fishing"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Bottle of water",
+                        "Wine/champagne",
+                        "Kid meals",
+                        "Snack bar",
+                        "Breakfast in the room",
+                        "Bar",
+                        "Restaurant"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "WiFi is available in the hotel rooms and costs USD 6.95 per 24 hours."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Lockers",
+                        "Concierge service",
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Ticket service",
+                        "Tour desk",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Kids' outdoor play equipment"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Trouser press",
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "Smoke alarms",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Paid WiFi",
+                        "Mini-market on site",
+                        "Shared lounge/TV area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Shops (on site)",
+                        "Heating",
+                        "Car hire",
+                        "Gift shop",
+                        "Lift",
+                        "Family rooms",
+                        "Barber/beauty shop",
+                        "Facilities for disabled guests",
+                        "Non-smoking rooms",
+                        "Newspapers",
+                        "Air conditioning",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Visual aids: Tactile signs",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Wellness facilities",
+                    "value": [
+                        "Fitness/spa locker rooms",
+                        "Fitness",
+                        "Full body massage",
+                        "Hand massage",
+                        "Head massage",
+                        "Couples massage",
+                        "Foot massage",
+                        "Neck massage",
+                        "Back massage",
+                        "Spa/wellness packages",
+                        "Foot bath",
+                        "Steam room",
+                        "Spa Facilities",
+                        "Body wrap",
+                        "Body scrub",
+                        "Body Treatments",
+                        "Hair styling",
+                        "Hair colouring",
+                        "Hair cut",
+                        "Pedicure",
+                        "Manicure",
+                        "Hair treatments",
+                        "Make up services",
+                        "Waxing services",
+                        "Facial treatments",
+                        "Beauty Services",
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Massage",
+                        "Spa and wellness centre",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "297",
+            "name": "Hilton Clearwater Beach Resort & Spa",
+            "score": "7.8",
+            "link": "/hotel/us/hilton-clearwater-beach-resort.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=4373640_299066716_2_2_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=32&highlighted_blocks=4373640_299066716_2_2_0&hpos=7&no_rooms=1&sr_order=price&sr_pri_blocks=4373640_299066716_2_2_0__29665&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Room service",
+                "fabulous fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Bar",
+                "Good breakfast",
+                "Beachfront",
+                "Private beach area"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Towels",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor furniture",
+                        "Beachfront",
+                        "Sun terrace",
+                        "Private beach area"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Live sport events (broadcast)",
+                        "Live music/performance",
+                        "Movie nights",
+                        "Beach",
+                        "Water sport facilities (on site)",
+                        "Table tennis"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Radio",
+                        "Telephone"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Chocolate or cookies",
+                        "Fruits",
+                        "Bottle of water",
+                        "Wine/champagne",
+                        "Kid meals",
+                        "Special diet menus (on request)",
+                        "Snack bar",
+                        "Breakfast in the room",
+                        "Bar",
+                        "Restaurant"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in the hotel rooms and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Electric vehicle charging station",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Concierge service",
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks",
+                        "Kids' outdoor play equipment",
+                        "Books, DVDs, music for children",
+                        "Board games/puzzles"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Daily housekeeping",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "Smoke alarms",
+                        "24-hour security",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Shared lounge/TV area",
+                        "Vending machine (drinks)",
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Heating",
+                        "Carpeted",
+                        "Gift shop",
+                        "Lift",
+                        "Family rooms",
+                        "Barber/beauty shop",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Air conditioning",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Visual aids: Tactile signs",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "Fence around pool",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs",
+                        "Pool bar",
+                        "Heated pool",
+                        "Pool with view"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness/spa locker rooms",
+                        "Yoga classes",
+                        "Fitness",
+                        "Full body massage",
+                        "Hand massage",
+                        "Head massage",
+                        "Couples massage",
+                        "Foot massage",
+                        "Neck massage",
+                        "Back massage",
+                        "Spa/wellness packages",
+                        "Spa lounge/relaxation area",
+                        "Spa Facilities",
+                        "Light therapy",
+                        "Body wrap",
+                        "Body scrub",
+                        "Body Treatments",
+                        "Hair styling",
+                        "Hair colouring",
+                        "Hair cut",
+                        "Pedicure",
+                        "Manicure",
+                        "Hair treatments",
+                        "Make up services",
+                        "Waxing services",
+                        "Facial treatments",
+                        "Beauty Services",
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Massage",
+                        "Spa and wellness centre",
+                        "Fitness centre"
+                    ]
+                },
+                {
+                    "type": "Languages spoken",
+                    "value": [
+                        "Bulgarian",
+                        "English",
+                        "Spanish",
+                        "Polish",
+                        "Russian"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "299",
+            "name": "Hyatt Regency Clearwater Beach Resort & Spa",
+            "score": "8.9",
+            "link": "/hotel/us/hyatt-regency-clearwater-beach-resort-spa.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=27675523_244942576_3_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=33&highlighted_blocks=27675523_244942576_3_0_0&hpos=8&no_rooms=1&sr_order=price&sr_pri_blocks=27675523_244942576_3_0_0__29900&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Room service",
+                "superb fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Good breakfast",
+                "Beachfront"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Towels/sheets (extra fee)",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Bathrobe",
+                        "Hairdryer",
+                        "Shower"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Beachfront",
+                        "Sun terrace",
+                        "Terrace"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Cleaning products",
+                        "Tumble dryer",
+                        "Electric kettle",
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Happy hour",
+                        "Bike tours",
+                        "Movie nights",
+                        "Beach"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Satellite channels",
+                        "Radio",
+                        "Telephone",
+                        "TV",
+                        "Pay-per-view channels"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "On-site coffee house",
+                        "Bottle of water",
+                        "Kid meals",
+                        "Bar",
+                        "Restaurant",
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Concierge service",
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Tour desk",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Babysitting/child services"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Daily housekeeping",
+                        "Trouser press",
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Smoke alarms",
+                        "Security alarm",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Mini-market on site",
+                        "Vending machine (snacks)",
+                        "Vending machine (drinks)",
+                        "Air conditioning",
+                        "Shops (on site)",
+                        "Wake-up service",
+                        "Heating",
+                        "Laptop safe",
+                        "Carpeted",
+                        "Gift shop",
+                        "Lift",
+                        "VIP room facilities",
+                        "Heating",
+                        "Fan",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Pants press",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Newspapers",
+                        "Wake up service/Alarm clock",
+                        "Air conditioning",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Entire unit wheelchair accessible",
+                        "Upper floors accessible by elevator"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": []
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness/spa locker rooms",
+                        "Body wrap",
+                        "Body scrub",
+                        "Pedicure",
+                        "Manicure",
+                        "Waxing services",
+                        "Facial treatments",
+                        "Beauty Services",
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Hot tub/jacuzzi",
+                        "Massage",
+                        "Spa and wellness centre",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "299",
+            "name": "Hampton Inn and Suites Clearwater Beach",
+            "score": "8.7",
+            "link": "/hotel/us/hampton-inn-and-suites-clearwater-fl.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=192669208_266276708_4_1_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=34&highlighted_blocks=192669208_266276708_4_1_0&hpos=9&no_rooms=1&sr_order=price&sr_pri_blocks=192669208_266276708_4_1_0__29900&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "good fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Free WiFi",
+                "Bar",
+                "Good breakfast"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Bar",
+                        "Restaurant"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage",
+                        "Street parking",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Express check-in/check-out",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Daily housekeeping",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Business centre"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Fire extinguishers",
+                        "CCTV outside property",
+                        "CCTV in common areas",
+                        "Smoke alarms",
+                        "Security alarm",
+                        "24-hour security",
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Vending machine (snacks)",
+                        "Vending machine (drinks)",
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Heating",
+                        "Lift",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Non-smoking rooms"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Auditory guidance",
+                        "Visual aids: Tactile signs",
+                        "Visual aids: Braille",
+                        "Lower bathroom sink",
+                        "Higher level toilet",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": []
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness",
+                        "Fitness centre"
+                    ]
+                },
+                {
+                    "type": "Languages spoken",
+                    "value": [
+                        "English",
+                        "Spanish",
+                        "French"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "314",
+            "name": "Royal North Beach",
+            "score": "7.6",
+            "link": "/hotel/us/royal-north-beach.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=27130403_118689418_7_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=35&highlighted_blocks=27130403_118689418_7_0_0&hpos=10&no_rooms=1&sr_order=price&sr_pri_blocks=27130403_118689418_7_0_0__31400&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Facilities for disabled guests",
+                "Free parking",
+                "Free WiFi",
+                "Family rooms",
+                "Tea/coffee maker in all rooms"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Additional bathroom",
+                        "Additional toilet",
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Hairdryer",
+                        "Bath",
+                        "Shower"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Wardrobe or closet",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "View",
+                    "value": [
+                        "Inner courtyard view",
+                        "Pool view"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Outdoor furniture",
+                        "Outdoor furniture",
+                        "Barbecue",
+                        "BBQ facilities",
+                        "Patio"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Dining table",
+                        "Cleaning products",
+                        "Toaster",
+                        "Stovetop",
+                        "Oven",
+                        "Kitchenware",
+                        "Kitchen",
+                        "Microwave",
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Socket near the bed",
+                        "Sofa bed",
+                        "Clothes rack"
+                    ]
+                },
+                {
+                    "type": "Services & Extras",
+                    "value": [
+                        "Tickets to attractions or shows"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are not allowed."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Diving",
+                        "Canoeing",
+                        "Windsurfing",
+                        "Fishing",
+                        "Golf course (within 3 km)"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Dining area",
+                        "Sofa",
+                        "Seating Area",
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Video",
+                        "DVD player",
+                        "TV",
+                        "Pay-per-view channels"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Tea/Coffee maker"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Street parking"
+                    ]
+                },
+                {
+                    "type": "Services",
+                    "value": [
+                        "Vending machine (drinks)",
+                        "Private check-in/check-out",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Children television networks",
+                        "Books, DVDs, music for children",
+                        "Books, DVDs, or music for children"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "CCTV outside property",
+                        "CCTV in common areas",
+                        "Smoke alarms",
+                        "Security alarm"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Designated smoking area",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Allergy-free room",
+                        "Heating",
+                        "Tile/marble floor",
+                        "Private entrance",
+                        "Heating",
+                        "Fan",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Wheelchair accessible",
+                        "Entire unit located on ground floor"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Open all year",
+                        "Opening times",
+                        "All ages welcome",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs",
+                        "Swimming pool toys",
+                        "Sun umbrellas",
+                        "Heated pool"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Sun umbrellas",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "500",
+            "name": "OCEANVIEW LARGE DREAM CONDO WITH 2BD/2B in CLEARWATER BEACH",
+            "score": "6.9",
+            "link": "/hotel/us/oceanview-large-dream-condo-with-2bd-47-2b-in-clearwater-beach.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=700268101_288401705_0_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=36&highlighted_blocks=700268101_288401705_0_0_0&hpos=11&no_rooms=1&sr_order=price&sr_pri_blocks=700268101_288401705_0_0_0__50000&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "Beachfront",
+                "Pets allowed",
+                "Family rooms"
+            ],
+            "services_offered": [
+                {
+                    "type": "Parking",
+                    "value": []
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "No internet access available."
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Tumble dryer",
+                        "Kitchen",
+                        "Washing machine"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen"
+                    ]
+                },
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Toilet paper",
+                        "Towels",
+                        "Private bathroom",
+                        "Hairdryer"
+                    ]
+                },
+                {
+                    "type": "Living Area",
+                    "value": [
+                        "Desk"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "Flat-screen TV"
+                    ]
+                },
+                {
+                    "type": "Room Amenities",
+                    "value": [
+                        "Heating",
+                        "Iron",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Free! Pets are allowed. No extra charges."
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Beachfront",
+                        "Balcony"
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Beach"
+                    ]
+                },
+                {
+                    "type": "Miscellaneous",
+                    "value": [
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Family rooms"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "593",
+            "name": "Opal Sands",
+            "score": "9.1",
+            "link": "/hotel/us/opal-sands.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=153499901_247686695_0_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=37&highlighted_blocks=153499901_247686695_0_0_0&hpos=12&no_rooms=1&sr_order=price&sr_pri_blocks=153499901_247686695_0_0_0__59310&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "1 swimming pool",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Room service",
+                "fabulous fitness centre",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Bar",
+                "Beachfront"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Towels",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Linen",
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "View",
+                    "value": [
+                        "Sea view"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Beachfront",
+                        "Sun terrace",
+                        "Balcony"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are allowed. Charges may be applicable."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Beach"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "iPod dock",
+                        "Cable channels",
+                        "Telephone"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Bar",
+                        "Restaurant"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Accessible parking",
+                        "Parking garage",
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Services",
+                    "value": [
+                        "Wake-up service",
+                        "24-hour front desk",
+                        "Meeting/banquet facilities",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Air conditioning",
+                        "Shops (on site)",
+                        "Heating",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Non-smoking rooms",
+                        "Iron",
+                        "Air conditioning"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Auditory guidance",
+                        "Visual aids: Tactile signs",
+                        "Lower bathroom sink",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Outdoor swimming pool",
+                    "value": [
+                        "Free!  All pools are free of charge",
+                        "Pool/beach towels",
+                        "Sun loungers or beach chairs",
+                        "Pool bar",
+                        "Pool with view",
+                        "Shallow end"
+                    ]
+                },
+                {
+                    "type": "Wellness",
+                    "value": [
+                        "Fitness/spa locker rooms",
+                        "Fitness",
+                        "Spa/wellness packages",
+                        "Spa lounge/relaxation area",
+                        "Spa Facilities",
+                        "Sun loungers or beach chairs",
+                        "Pool/beach towels",
+                        "Hot tub/jacuzzi",
+                        "Spa and wellness centre",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        },
+        {
+            "price": "719",
+            "name": "Sandpearl Resort Private Beach",
+            "score": "9.0",
+            "link": "/hotel/us/sandpearl.en-gb.html?label=gen173nr-1DCAQoggJCGnNlYXJjaF9ub25lLCB1bml0ZWQgc3RhdGVzSDNYBGgHiAEBmAEJuAEZyAEM2AED6AEB-AEDiAIBqAIDuAKL7pWEBsACAdICJDBmYjRmNTMxLTA5MWQtNGQyMC1hZTljLWEwYTM4MmE1MWQ4OdgCBOACAQ&sid=fd1f4a09de5a241494b2b57cb1cd2ad8&all_sr_blocks=31900608_269983652_2_0_0&checkin=2021-10-14&checkout=2021-10-15&dest_id=20021863&dest_type=city&from_beach_non_key_ufi_sr=1&group_adults=2&group_children=0&hapos=38&highlighted_blocks=31900608_269983652_2_0_0&hpos=13&no_rooms=1&sr_order=price&sr_pri_blocks=31900608_269983652_2_0_0__71910&srepoch=1619359499&srpvid=da3f6305636d00ee&ucfs=1&from=searchresults;hptv=do",
+            "country": "United States",
+            "date-in": "2021-10-14",
+            "date-out": "2021-10-15",
+            "important_facilities": [
+                "Restaurant",
+                "Room service",
+                "good fitness centre",
+                "Facilities for disabled guests",
+                "Beachfront",
+                "Spa and wellness centre",
+                "Bar"
+            ],
+            "services_offered": [
+                {
+                    "type": "Bathroom",
+                    "value": [
+                        "Bath or shower",
+                        "Private bathroom",
+                        "Toilet",
+                        "Free toiletries",
+                        "Bathrobe",
+                        "Hairdryer",
+                        "Bath"
+                    ]
+                },
+                {
+                    "type": "Bedroom",
+                    "value": [
+                        "Alarm clock"
+                    ]
+                },
+                {
+                    "type": "View",
+                    "value": [
+                        "View"
+                    ]
+                },
+                {
+                    "type": "Outdoors",
+                    "value": [
+                        "Beachfront",
+                        "Balcony"
+                    ]
+                },
+                {
+                    "type": "Kitchen",
+                    "value": [
+                        "Refrigerator"
+                    ]
+                },
+                {
+                    "type": "Pets",
+                    "value": [
+                        "Pets are allowed. Charges may be applicable."
+                    ]
+                },
+                {
+                    "type": "Activities",
+                    "value": [
+                        "Beach",
+                        "Bikes available (free)"
+                    ]
+                },
+                {
+                    "type": "Media & Technology",
+                    "value": [
+                        "iPod dock",
+                        "Flat-screen TV",
+                        "Cable channels",
+                        "Radio",
+                        "Telephone"
+                    ]
+                },
+                {
+                    "type": "Food & Drink",
+                    "value": [
+                        "Special diet menus (on request)",
+                        "Breakfast in the room",
+                        "Bar",
+                        "Restaurant"
+                    ]
+                },
+                {
+                    "type": "Internet",
+                    "value": [
+                        "Free! WiFi is available in all areas and is free of charge."
+                    ]
+                },
+                {
+                    "type": "Parking",
+                    "value": [
+                        "Secured parking"
+                    ]
+                },
+                {
+                    "type": "Reception services",
+                    "value": [
+                        "Concierge service",
+                        "ATM/cash machine on site",
+                        "Luggage storage",
+                        "Currency exchange",
+                        "24-hour front desk"
+                    ]
+                },
+                {
+                    "type": "Entertainment and family services",
+                    "value": [
+                        "Babysitting/child services"
+                    ]
+                },
+                {
+                    "type": "Cleaning services",
+                    "value": [
+                        "Trouser press",
+                        "Shoeshine",
+                        "Ironing service",
+                        "Dry cleaning",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "type": "Business facilities",
+                    "value": [
+                        "Fax/photocopying",
+                        "Meeting/banquet facilities"
+                    ]
+                },
+                {
+                    "type": "Safety & security",
+                    "value": [
+                        "Safety deposit box"
+                    ]
+                },
+                {
+                    "type": "General",
+                    "value": [
+                        "Shuttle service",
+                        "Vending machine (drinks)",
+                        "Shuttle service (additional charge)",
+                        "Shuttle service (free)",
+                        "Air conditioning",
+                        "Non-smoking throughout",
+                        "Shops (on site)",
+                        "Heating",
+                        "Carpeted",
+                        "Gift shop",
+                        "Lift",
+                        "Heating",
+                        "Family rooms",
+                        "Facilities for disabled guests",
+                        "Ironing facilities",
+                        "Iron",
+                        "Newspapers",
+                        "Air conditioning",
+                        "Room service"
+                    ]
+                },
+                {
+                    "type": "Accessibility",
+                    "value": [
+                        "Auditory guidance",
+                        "Visual aids: Tactile signs",
+                        "Lower bathroom sink",
+                        "Toilet with grab rails",
+                        "Wheelchair accessible"
+                    ]
+                },
+                {
+                    "type": "Wellness facilities",
+                    "value": [
+                        "Hot tub/jacuzzi",
+                        "Spa and wellness centre",
+                        "Fitness centre"
+                    ]
+                }
+            ]
+        }
+    ]
+]
