@@ -1,7 +1,8 @@
 import json
+import random
+import os
 
-
-seasons = {"spring": ('2021-04-14', '2021-04-15'),
+seasons = {"spring": ('2021-05-09', '2021-05-10'),
            "summer": ('2021-07-14', '2021-07-15'),
            "fall": ('2021-10-14', '2021-10-15'),
            "winter": ('2022-01-14', '2022-01-15')}
@@ -34,6 +35,8 @@ middle_east = ['Saudi Arabia', 'United Arab Emirates', 'Iran', 'Israel', 'Jordan
                'Bahrain', 'Oman', 'Qatar', 'Lebanon']
 
 
+
+
 def flatten_list(list_):
     flat_list = []
     for item in list_:
@@ -50,93 +53,104 @@ def get_index_data():
         return json.load(jf)
 
 
-def json_new_format(file_name, continent):
+def json_new_format(file_name, continent, data_num):
     final_list = []
     with open(f'C:/Users/aniam/PycharmProjects/WebScraping/Data/{continent}/{file_name}', 'r', encoding="utf-8") as jf:
         data = json.load(jf)
 
-    for a in range(len(data)):
+    data = data[data_num]
+
+    for ap_dict in data:
         new_dict = {}
-        data = data[a]
+        for key in ap_dict:
 
-        for ap_dict in data:
-
-            for key in ap_dict:
-
-                if key == "important_facilities":
-                    fac_curr = list(ap_dict[key])
-                    for i in range(len(facilities)):
-                        # -----------------------------------------
-                        if facilities[i] in fac_curr:
-                            new_dict.update({facilities[i]: 1})
-                        else:
-                            new_dict.update({facilities[i]: 0})
-                        # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-                    if "Airport shuttle" in fac_curr or "Airport shuttle (free)" in fac_curr:
-                        new_dict.update({"Airport Shuttle": 1})
-                    else:
-                        new_dict.update({"Airport Shuttle": 0})
-                        # -----------------------------------------
-                    if '1 swimming pool' in fac_curr or '2 swimming pools' in fac_curr:
-                        new_dict.update({"Swimming Pool": 1})
-                    else:
-                        new_dict.update({"Swimming Pool": 0})
-                        # -----------------------------------------
-                    if 'Free parking' in fac_curr:
-                        new_dict.update({"Parking": 1})
-                    else:
-                        new_dict.update({"Parking": 0})
-                        # -----------------------------------------
-                    if any(x in breakfast for x in fac_curr):
-                        new_dict.update({"Breakfast": 1})
-                    else:
-                        new_dict.update({"Breakfast": 0})
-                elif key == "services_offered":
-                    ser_curr = list(ap_dict[key])
-                    service_list = []
-                    for service in ser_curr:
-                        service_list.append(service["type"])
-                        service_list.append(service["value"])
-                    final_services = flatten_list(service_list)
-                    for i in range(len(services)):
-                        if services[i] in final_services:
-                            new_dict.update({services[i]: 1})
-                        else:
-                            new_dict.update({services[i]: 0})
+            if key == "important_facilities":
+                fac_curr = list(ap_dict[key])
+                for i in range(len(facilities)):
                     # -----------------------------------------
-                    if ("Airport shuttle (additional charge)" or "Airport shuttle") in final_services:
-                        new_dict.update({"Airport Shuttle": 1})
-                    # -----------------------------------------
-                    if ("Outdoor swimming pool" or "Indoor swimming pool") in final_services:
-                        new_dict.update({"Swimming Pool": 1})
-                    # -----------------------------------------
-                    if 'Street parking' or 'Secured parking' or 'Parking garage' in final_services:
-                        new_dict.update({"Parking": 1})
+                    if facilities[i] in fac_curr:
+                        new_dict.update({facilities[i]: 1})
+                    else:
+                        new_dict.update({facilities[i]: 0})
+                    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                if "Airport shuttle" in fac_curr or "Airport shuttle (free)" in fac_curr:
+                    new_dict.update({"Airport Shuttle": 1})
                 else:
-                    print(ap_dict, key)
-                    new_dict.update({key: ap_dict[key]})
-                if ap_dict["score"] == "":
-                    new_dict.update({"score": 7})
-            # ----------------------------------- Adding the season columns
-            for i in seasons.keys():
-                if i in file_name:
-                    new_dict.update({i: 1})
+                    new_dict.update({"Airport Shuttle": 0})
+                    # -----------------------------------------
+                if '1 swimming pool' in fac_curr or '2 swimming pools' in fac_curr:
+                    new_dict.update({"Swimming Pool": 1})
                 else:
-                    new_dict.update({i: 0})
-            # ----------------------------------- Adding the INDEX columns
-            index_data = get_index_data()
-            country = file_name.split('_')[0]
-            for i in range(len(index_data)):
-                if str(index_data[i]["Country"]) == country:
-                    new_dict.update({"Cost of Living Index": index_data[i]["Cost of Living Index"]})
-                    new_dict.update({"Rent Index": index_data[i]["Rent Index"]})
-            final_list.append(new_dict)
+                    new_dict.update({"Swimming Pool": 0})
+                    # -----------------------------------------
+                if 'Free parking' in fac_curr:
+                    new_dict.update({"Parking": 1})
+                else:
+                    new_dict.update({"Parking": 0})
+                    # -----------------------------------------
+                if any(x in breakfast for x in fac_curr):
+                    new_dict.update({"Breakfast": 1})
+                else:
+                    new_dict.update({"Breakfast": 0})
+            elif key == "services_offered":
+                ser_curr = list(ap_dict[key])
+                service_list = []
+                for service in ser_curr:
+                    service_list.append(service["type"])
+                    service_list.append(service["value"])
+                final_services = flatten_list(service_list)
+                for i in range(len(services)):
+                    if services[i] in final_services:
+                        new_dict.update({services[i]: 1})
+                    else:
+                        new_dict.update({services[i]: 0})
+                # -----------------------------------------
+                if ("Airport shuttle (additional charge)" or "Airport shuttle") in final_services:
+                    new_dict.update({"Airport Shuttle": 1})
+                # -----------------------------------------
+                if ("Outdoor swimming pool" or "Indoor swimming pool") in final_services:
+                    new_dict.update({"Swimming Pool": 1})
+                # -----------------------------------------
+                if 'Street parking' or 'Secured parking' or 'Parking garage' in final_services:
+                    new_dict.update({"Parking": 1})
+            else:
+                new_dict.update({key: ap_dict[key]})
+            if ap_dict["score"] == "":
+                new_dict.update({"score": round(random.uniform(6.5, 8.5), 1)})
+        # ----------------------------------- Adding the season columns
+        for i in seasons.keys():
+            if i in file_name:
+                new_dict.update({i: 1})
+            else:
+                new_dict.update({i: 0})
+        # ----------------------------------- Adding the INDEX columns
+        index_data = get_index_data()
+        country = file_name.split('_')[0]
+        for i in range(len(index_data)):
+            if str(index_data[i]["Country"]) == country:
+                new_dict.update({"Cost of Living Index": index_data[i]["Cost of Living Index"]})
+                new_dict.update({"Rent Index": index_data[i]["Rent Index"]})
+        final_list.append(new_dict)
 
-        with open(f'C:/Users/aniam/PycharmProjects/WebScraping/Data/Final_Data/{file_name}', 'w', encoding='utf-8') as f:
-            json.dump(final_list, f, ensure_ascii=False, indent=4)
-            f.close()
+    return final_list
 
 
-# json_new_format("Algeria_summer.json", "africa")
+def load_into_season_file(file_name, continent):
+    with open(f'C:/Users/aniam/PycharmProjects/WebScraping/Data/{continent}/{file_name}', 'r', encoding="utf-8") as jf:
+        data = json.load(jf)
+    f_list = []
+    for i in range(len(data)):
+        _list = json_new_format(file_name, continent, i)
+        f_list.append(_list)
+    with open(f'C:/Users/aniam/PycharmProjects/WebScraping/Final_Data/{continent}/{file_name}', 'w', encoding='utf-8') as f:
+        json.dump(f_list, f, ensure_ascii=False, indent=4)
+        f.close()
 
+
+def load_load(folder):
+    for file in os.listdir(f"C:/Users/aniam/PycharmProjects/WebScraping/Data/{folder}/"):
+        load_into_season_file(file, folder)
+
+
+# load_load("asia_pacific")

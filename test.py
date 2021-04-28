@@ -17,9 +17,9 @@ def get_data(country_list, season):
     for country in country_list:
         raw = bkscraper.get_result(country=country, limit=8, people=2, detail=True,
                                    datein=date_[0], dateout=date_[1])
-        with open(f"Data/africa/{country}_{season}.json", 'w', encoding='utf-8') as fl:
+        with open(f"Data/asia_pacific/{country}_{season}.json", 'w', encoding='utf-8') as fl:
             json.dump(raw, fl, ensure_ascii=False, indent=4)
             fl.close()
 
 
-get_data(africa, "fall")
+# get_data(middle_east, "spring")
